@@ -1,0 +1,1 @@
+# OpenCV-prakse-16.1.2024
